@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ihackanonymous
+- 👋 Hi, I’m @anikacodes
 - 👀 I’m interested in technolgy
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on AI projects
